@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293954318460",
+    "firebase_url": "https://bcscanner-4f6dd.firebaseio.com",
+    "project_id": "bcscanner-4f6dd",
+    "storage_bucket": "bcscanner-4f6dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293954318460:android:970e8a99e4d2b3ae3b99f9",
+        "android_client_info": {
+          "package_name": "com.bcscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293954318460-4dh1v5sr4ge1v8bgpqjgfs2l9lv6p5fv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bcscanner",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "293954318460-0ujvgo95ge38oio9728a81rh791m62r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmb_bTgM9cJ5mslE6Sal7-V7I0Fu9Zv-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293954318460-0ujvgo95ge38oio9728a81rh791m62r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
